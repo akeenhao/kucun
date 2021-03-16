@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/resources/admin/login/css/style.css=UTF-8
+encoding//src/com/ischoolbar/programmer/interceptor/admin/LoginInterceptor.java=GBK
+encoding//src/config/db.properties=UTF-8
+encoding/src=GBK
